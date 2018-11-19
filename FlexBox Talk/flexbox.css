@@ -1,0 +1,14 @@
+.father {
+/*    display: flex;*/
+    border-color: red;
+    border-style: solid;
+    height: 90vh;
+    width: 100%;
+}
+ 
+.child {
+    border-color: yellow;
+    border-style: solid;
+    width: 60px;
+    height: 60px;
+}
